@@ -18,11 +18,11 @@ _This webpage is designed for cool cats and to help their interests be known and
 * _Throw up for no reason_
 * _Waste litter by kicking it up and still not cover your own fecal matter_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+_So you want to please your feline friends? Great. Just stop lying to yourself that you are the boss and aceept your new furry overlords._
 
 ## Known Bugs
 
-_No known bugs, because if there, the cats would totally be pouncing around for them_
+_No known bugs, because if there were, the cats would totally be pouncing around for them_
 
 ## Support and contact details
 
