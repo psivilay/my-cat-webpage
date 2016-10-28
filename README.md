@@ -1,40 +1,39 @@
 # my-cat-webpage
 Following along at https://www.learnhowtoprogram.com/intro-to-programming/git-html-and-css/practice-block-elements
 
-# _{Application Name}_
+# The Cat App
 
-#### _{Brief description of application}, {Date of current version}_
+#### A website for cool cats and their favorite things, 10/28/16
 
-#### By _**{List of contributors}**_
+#### By _**Peter Sivilay**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This webpage is designed for cool cats and to help their interests be known and also to support their incessant need for new toys, via Amazon._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Purr_
+* _Be Lazy_
+* _Throw up for no reason_
+* _Waste litter by kicking it up and still not cover your own fecal matter_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_No known bugs, because if there, the cats would totally be pouncing around for them_
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Any issues, please feel free to contact our primary benefactor, Garfield. Yes that one._
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_This is pretty basic html, using some block elements, inline elements, some picture and website linking._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Only licensed to kill, 009lives*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **WeKilledCuriosity inc**
