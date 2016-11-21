@@ -16,3 +16,12 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+}
