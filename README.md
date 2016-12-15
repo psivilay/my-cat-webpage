@@ -5,7 +5,7 @@ Following along at https://www.learnhowtoprogram.com/intro-to-programming/git-ht
 
 #### A website for cool cats and their favorite things, 10/28/16
 
-#### By _**Peter Sivilay**_
+#### By _****_
 
 ## Description
 
